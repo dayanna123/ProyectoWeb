@@ -1,0 +1,112 @@
+header {
+    background: #F5FAB7;
+    color: #005883;
+}
+
+.row_header{
+   background: #005883;
+    color: #FFFFFF;
+
+}
+
+.centerImg {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.main {
+    background: #FFFFFF;
+    color: #005883;
+    border: 5px solid orange;*/
+
+}
+.gerentInf {
+    background: orange;
+    color: #005883;
+    border: 5px solid white;*/
+
+}
+.cicloVida {
+    background: #ADFF2F;
+    color: #005883;
+    border: 5px solid white;*/
+
+}
+.conceptos {
+    background: #F2F52F;
+    color: #005883;
+    border: 5px solid white;*/
+
+}
+.autor {
+    background: pink;
+    color: #005883;
+    border: 5px solid white;*/
+
+}
+.definicion {
+    background: #F66AB6;
+    color: #005883;
+    border: 5px solid white;*/
+
+}
+.planifi {
+    background: #00ffff;
+    color: #005883;
+    border: 5px solid white;*/
+
+}
+.row_main{
+  border: 5px solid orange;*/
+}
+
+aside {
+    background: #005883;
+    color: #FFFFFF;
+}
+
+.color1 {
+    background-color: #005883;
+    color: #FFFFFF
+}
+
+.color2 {
+    background-color: #FFFFFF;
+    color: #005883
+}
+
+.NAV_BAR{
+
+	    background-color: orange;
+        color: #FFFFFF
+
+}
+
+footer {
+    background: #F5FAB7;
+    color:  #005883
+}
+
+body {
+    background: #F5FAB7;
+    color:  #005883
+}
+
+.search{
+background-color: #FFFFFF;
+}
+
+.autores3
+{
+border: 2px solid Black;
+background-color:#FFFFFF;
+
+}
+
+.github_pre{
+
+    background: #676AA9;
+    color: #FFFFFF
+
+}
